@@ -1,2 +1,2 @@
 # IPC
-Simple IPC example with unix sockets in Linux
+Very simple IPC example with unix sockets in Linux
